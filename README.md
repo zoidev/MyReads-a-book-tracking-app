@@ -5,7 +5,9 @@ The main page shows 3 shelves
 * Currently Reading
 * Want to Read
 * Read
-and each book is shown on the correct shelf. The search page allows user to search for books based on a query.
+
+and each book is shown on the correct shelf. 
+The search page allows user to search for books based on a query.
 
 ## Functionality
 There is a control tied to each book instance that allows user to move books between shelves.
